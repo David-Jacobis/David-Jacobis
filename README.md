@@ -1,4 +1,4 @@
-### Olá eu o sou David Jacobis 👋
+### Olá eu sou o David Jacobis 👋
 
 <div align="center">
   <a href="https://github.com/David-Jacobis">
